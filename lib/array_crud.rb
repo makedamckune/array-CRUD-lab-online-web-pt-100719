@@ -29,11 +29,12 @@ St.Croix = places_to_visit.shift
 end
 
 def 
-  places_to_visit.index()
+  places_to_visit.index(1)=[]
   
 end
 
-def retrieve_first_element_from_array(array)
+def 
+  places_to_visit
   
 end
 
