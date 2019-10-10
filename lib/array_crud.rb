@@ -34,7 +34,7 @@ def
 end
 
 def 
-  places_to_visit
+  places_to_visit[0]
   
 end
 
