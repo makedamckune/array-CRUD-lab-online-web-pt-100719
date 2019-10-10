@@ -1,16 +1,20 @@
-def create_an_empty_array
+def 
+  people_i_trust[]
   
 end
 
-def create_an_array
+def 
+  places_to_visit[ St.Croix, Brazil, London ]
   
 end
 
-def add_element_to_end_of_array(array, element)
+def 
+  places_to_visit << "Boswana"
   
 end
 
-def add_element_to_start_of_array(array, element)
+def 
+  places_to_visit.unshift("Dominica")
   
 end
 
