@@ -29,7 +29,7 @@ St.Croix = places_to_visit.shift
 end
 
 def 
-  places_to_visit.index
+  places_to_visit.index[1]
   
 end
 
