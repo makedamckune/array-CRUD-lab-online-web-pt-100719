@@ -18,15 +18,18 @@ def
   
 end
 
-def remove_element_from_end_of_array(array)
+def 
+  London = places_to_visit.pop
   
 end
 
-def remove_element_from_start_of_array(array)
+def
+St.Croix = places_to_visit.shift
   
 end
 
-def retrieve_element_from_index(array, index_number)
+def 
+  
   
 end
 
