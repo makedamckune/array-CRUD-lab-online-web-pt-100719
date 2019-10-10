@@ -38,6 +38,6 @@ def
   
 end
 
-def retrieve_last_element_from_array(array)
-  
+def 
+  places_to_visit[2]
 end
